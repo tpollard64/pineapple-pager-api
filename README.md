@@ -11,18 +11,10 @@ A Python library for interacting with the Pineapple Pager device. It allows you 
 
 ## Installation
 
-1. Clone the repository:
+It is recommended to install the package in a virtual environment.
 
 ```bash
-git clone https://github.com/tpollard64/pineapple-pager-python-api.git
-cd pineapple-pager-python-api
-````
-
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
+pip install pineapple-pager-api
 
 ## Setup
 
