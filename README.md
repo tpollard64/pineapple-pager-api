@@ -15,11 +15,11 @@ It is recommended to install the package in a virtual environment.
 
 ```bash
 pip install pineapple-pager-api
+```
 
 ## Setup
 
 Store your Pineapple password in an environment variable for security:
-
 ```bash
 export PINEAPPLE_PASSWORD="your_password_here"
 ```
